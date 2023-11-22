@@ -5,7 +5,7 @@ namespace CustomerTrackingService.Infrastructure.Persistence
 {
     public static class PersistenceServicesRegistration
     {
-        public static IServiceCollection ConfigurePersistenceServices(this IServiceCollection services, IConfiguration configuration)
+        public static IServiceCollection ConfigurePersistenceServices(this IServiceCollection services)
         {
             return services;
         }

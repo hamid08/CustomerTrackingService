@@ -42,3 +42,15 @@ D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingServ
 D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\obj\Debug\net7.0\CustomerTrackingService.Presentation.pdb
 D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\obj\Debug\net7.0\CustomerTrackingService.Presentation.genruntimeconfig.cache
 D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\obj\Debug\net7.0\ref\CustomerTrackingService.Presentation.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\OpenIddict.Abstractions.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\OpenIddict.Validation.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\OpenIddict.Validation.AspNetCore.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\OpenIddict.Validation.SystemNetHttp.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\Polly.dll
+D:\My_Repositories\CustomerTrackingService\src\Presentation\CustomerTrackingService.Presentation\bin\Debug\net7.0\Polly.Extensions.Http.dll

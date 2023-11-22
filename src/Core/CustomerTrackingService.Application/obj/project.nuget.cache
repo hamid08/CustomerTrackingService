@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "C9tYv27SAZlP62ME2HpxkDq1HPVH0eqAS40JSVvZ9Q+A3Qpla61fTcBxkqHo4oEzm3/lZ9+vvqDrwxxOw6GmQg==",
+  "dgSpecHash": "feMgoL01MekXn9Ltwv5vlkzQaOuwyoupJmP+iYrIW6L2dMt0Sjly0FR6z1k7LHS1/k5/2FpUNtzreNVrLWndjQ==",
   "success": true,
   "projectFilePath": "D:\\My_Repositories\\CustomerTrackingService\\src\\Core\\CustomerTrackingService.Application\\CustomerTrackingService.Application.csproj",
   "expectedPackageFiles": [

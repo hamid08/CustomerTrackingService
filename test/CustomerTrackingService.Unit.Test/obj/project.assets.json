@@ -6125,6 +6125,7 @@
       "packagesPath": "C:\\Users\\hamid\\.nuget\\packages\\",
       "outputPath": "D:\\My_Repositories\\CustomerTrackingService\\test\\CustomerTrackingService.Unit.Test\\obj\\",
       "projectStyle": "PackageReference",
+      "centralPackageVersionsManagementEnabled": true,
       "configFilePaths": [
         "C:\\Users\\hamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -6154,24 +6155,40 @@
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
-            "version": "[17.3.2, )"
+            "version": "[17.3.2, )",
+            "versionCentrallyManaged": true
           },
           "coverlet.collector": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[3.1.2, )"
+            "version": "[3.1.2, )",
+            "versionCentrallyManaged": true
           },
           "xunit": {
             "target": "Package",
-            "version": "[2.4.2, )"
+            "version": "[2.4.2, )",
+            "versionCentrallyManaged": true
           },
           "xunit.runner.visualstudio": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.4.5, )"
+            "version": "[2.4.5, )",
+            "versionCentrallyManaged": true
           }
+        },
+        "centralPackageVersions": {
+          "coverlet.collector": "[3.1.2, )",
+          "Microsoft.AspNetCore.OpenApi": "[7.0.3, )",
+          "Microsoft.Extensions.Configuration.Abstractions": "[8.0.0, )",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "[8.0.0, )",
+          "Microsoft.NET.Test.Sdk": "[17.3.2, )",
+          "OpenIddict.Validation.AspNetCore": "[4.10.0, )",
+          "OpenIddict.Validation.SystemNetHttp": "[4.10.0, )",
+          "Swashbuckle.AspNetCore": "[6.4.0, )",
+          "xunit": "[2.4.2, )",
+          "xunit.runner.visualstudio": "[2.4.5, )"
         },
         "imports": [
           "net461",

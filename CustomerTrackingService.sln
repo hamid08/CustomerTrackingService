@@ -6,10 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "root", "root", "{4A838E79-D3E3-4E05-96E3-5C9BE9FF0831}"
 	ProjectSection(SolutionItems) = preProject
 		C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\.editorconfig = C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\.editorconfig
-		C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\AssemblyInfo.cs = C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\AssemblyInfo.cs
-		C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\BannedSymbols.txt = C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\BannedSymbols.txt
-		C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\Directory.Build.props = C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\Directory.Build.props
-		C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\Directory.Packages.props = C:\Users\hamid\Downloads\GoodFood-master\GoodFood-master\Directory.Packages.props
+		Directory.Packages.props = Directory.Packages.props
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EE56D71C-0F96-45D0-92C2-64D614103953}"
@@ -18,21 +15,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{99248CDA
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F3029510-B9F8-4183-AFC3-352D0B834958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerTrackingService.Application", "src\Core\CustomerTrackingService.Application\CustomerTrackingService.Application.csproj", "{CB598912-4FA9-4B39-A38E-8D4D6E0AC83F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerTrackingService.Application", "src\Core\CustomerTrackingService.Application\CustomerTrackingService.Application.csproj", "{CB598912-4FA9-4B39-A38E-8D4D6E0AC83F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerTrackingService.Domain", "src\Core\CustomerTrackingService.Domain\CustomerTrackingService.Domain.csproj", "{66A2010B-FE43-4746-9C10-DCA9A60CC562}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerTrackingService.Domain", "src\Core\CustomerTrackingService.Domain\CustomerTrackingService.Domain.csproj", "{66A2010B-FE43-4746-9C10-DCA9A60CC562}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerTrackingService.Infrastructure", "src\Infrastructure\CustomerTrackingService.Infrastructure\CustomerTrackingService.Infrastructure.csproj", "{AEBD8EE8-BDEC-45A1-8CE0-872712CAC7A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerTrackingService.Infrastructure", "src\Infrastructure\CustomerTrackingService.Infrastructure\CustomerTrackingService.Infrastructure.csproj", "{AEBD8EE8-BDEC-45A1-8CE0-872712CAC7A1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{E7DD9DA4-C00E-4545-88C8-2758C92F2D61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerTrackingService.Infrastructure.Persistence", "src\Infrastructure\CustomerTrackingService.Infrastructure.Persistence\CustomerTrackingService.Infrastructure.Persistence.csproj", "{4FE50B6B-085C-4D9D-8823-299349B6A0E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerTrackingService.Infrastructure.Persistence", "src\Infrastructure\CustomerTrackingService.Infrastructure.Persistence\CustomerTrackingService.Infrastructure.Persistence.csproj", "{4FE50B6B-085C-4D9D-8823-299349B6A0E3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{C9394CB2-430D-4CDC-9ABC-3B199E91A1A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerTrackingService.Presentation", "src\Presentation\CustomerTrackingService.Presentation\CustomerTrackingService.Presentation.csproj", "{9BE1DCEC-9C63-4F91-AF4F-1948C1316370}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerTrackingService.Presentation", "src\Presentation\CustomerTrackingService.Presentation\CustomerTrackingService.Presentation.csproj", "{9BE1DCEC-9C63-4F91-AF4F-1948C1316370}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerTrackingService.Unit.Test", "test\CustomerTrackingService.Unit.Test\CustomerTrackingService.Unit.Test.csproj", "{34A5028F-2614-4432-AC44-4F34A4385EB5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerTrackingService.Unit.Test", "test\CustomerTrackingService.Unit.Test\CustomerTrackingService.Unit.Test.csproj", "{34A5028F-2614-4432-AC44-4F34A4385EB5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

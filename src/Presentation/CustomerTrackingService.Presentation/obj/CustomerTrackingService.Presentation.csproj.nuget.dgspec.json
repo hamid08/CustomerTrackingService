@@ -13,6 +13,7 @@
         "packagesPath": "C:\\Users\\hamid\\.nuget\\packages\\",
         "outputPath": "D:\\My_Repositories\\CustomerTrackingService\\src\\Core\\CustomerTrackingService.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
           "C:\\Users\\hamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -46,8 +47,21 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.0, )",
+              "versionCentrallyManaged": true
             }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.1.2, )",
+            "Microsoft.AspNetCore.OpenApi": "[7.0.3, )",
+            "Microsoft.Extensions.Configuration.Abstractions": "[8.0.0, )",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "[8.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.3.2, )",
+            "OpenIddict.Validation.AspNetCore": "[4.10.0, )",
+            "OpenIddict.Validation.SystemNetHttp": "[4.10.0, )",
+            "Swashbuckle.AspNetCore": "[6.4.0, )",
+            "xunit": "[2.4.2, )",
+            "xunit.runner.visualstudio": "[2.4.5, )"
           },
           "imports": [
             "net461",
@@ -133,6 +147,7 @@
         "packagesPath": "C:\\Users\\hamid\\.nuget\\packages\\",
         "outputPath": "D:\\My_Repositories\\CustomerTrackingService\\src\\Infrastructure\\CustomerTrackingService.Infrastructure.Persistence\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
           "C:\\Users\\hamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -169,8 +184,21 @@
           "dependencies": {
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
-              "version": "[8.0.0, )"
+              "version": "[8.0.0, )",
+              "versionCentrallyManaged": true
             }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.1.2, )",
+            "Microsoft.AspNetCore.OpenApi": "[7.0.3, )",
+            "Microsoft.Extensions.Configuration.Abstractions": "[8.0.0, )",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "[8.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.3.2, )",
+            "OpenIddict.Validation.AspNetCore": "[4.10.0, )",
+            "OpenIddict.Validation.SystemNetHttp": "[4.10.0, )",
+            "Swashbuckle.AspNetCore": "[6.4.0, )",
+            "xunit": "[2.4.2, )",
+            "xunit.runner.visualstudio": "[2.4.5, )"
           },
           "imports": [
             "net461",
@@ -260,6 +288,7 @@
         "packagesPath": "C:\\Users\\hamid\\.nuget\\packages\\",
         "outputPath": "D:\\My_Repositories\\CustomerTrackingService\\src\\Presentation\\CustomerTrackingService.Presentation\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
           "C:\\Users\\hamid\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -299,12 +328,36 @@
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[7.0.3, )"
+              "version": "[7.0.3, )",
+              "versionCentrallyManaged": true
+            },
+            "OpenIddict.Validation.AspNetCore": {
+              "target": "Package",
+              "version": "[4.10.0, )",
+              "versionCentrallyManaged": true
+            },
+            "OpenIddict.Validation.SystemNetHttp": {
+              "target": "Package",
+              "version": "[4.10.0, )",
+              "versionCentrallyManaged": true
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.4.0, )"
+              "version": "[6.4.0, )",
+              "versionCentrallyManaged": true
             }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[3.1.2, )",
+            "Microsoft.AspNetCore.OpenApi": "[7.0.3, )",
+            "Microsoft.Extensions.Configuration.Abstractions": "[8.0.0, )",
+            "Microsoft.Extensions.DependencyInjection.Abstractions": "[8.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.3.2, )",
+            "OpenIddict.Validation.AspNetCore": "[4.10.0, )",
+            "OpenIddict.Validation.SystemNetHttp": "[4.10.0, )",
+            "Swashbuckle.AspNetCore": "[6.4.0, )",
+            "xunit": "[2.4.2, )",
+            "xunit.runner.visualstudio": "[2.4.5, )"
           },
           "imports": [
             "net461",
