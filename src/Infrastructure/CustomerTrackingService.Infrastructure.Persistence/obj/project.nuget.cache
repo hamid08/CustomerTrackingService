@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "X8C6Ww9mlHa7w5f8ZWe0TuO1ASMf49JWNij8bP1AigzOwjzbomlze/eG8bw3L+TCZ5Iybxyr3kPAW8R4OrpKIA==",
+  "dgSpecHash": "QSbJPHkZyrzXjzzEc/Fygdvzg/2XfH8auWiEkxJfislanBV22HDLepm3VdLrJ7+Kp60ffeOBezvDERi0TEnXnw==",
   "success": true,
   "projectFilePath": "D:\\My_Repositories\\CustomerTrackingService\\src\\Infrastructure\\CustomerTrackingService.Infrastructure.Persistence\\CustomerTrackingService.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [

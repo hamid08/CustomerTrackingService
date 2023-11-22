@@ -130,6 +130,7 @@
           "Microsoft.AspNetCore.OpenApi": "[7.0.3, )",
           "Microsoft.Extensions.Configuration.Abstractions": "[8.0.0, )",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "[8.0.0, )",
+          "Microsoft.Extensions.Http": "[7.0.0, )",
           "Microsoft.NET.Test.Sdk": "[17.3.2, )",
           "OpenIddict.Validation.AspNetCore": "[4.10.0, )",
           "OpenIddict.Validation.SystemNetHttp": "[4.10.0, )",
