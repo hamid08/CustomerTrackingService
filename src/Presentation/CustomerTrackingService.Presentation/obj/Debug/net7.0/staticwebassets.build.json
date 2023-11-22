@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mADU8VGMNGwbW0f+hTmn923RAsIh9JYCj/girgHLgRM=",
+  "Source": "CustomerTrackingService.Presentation",
+  "BasePath": "_content/CustomerTrackingService.Presentation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

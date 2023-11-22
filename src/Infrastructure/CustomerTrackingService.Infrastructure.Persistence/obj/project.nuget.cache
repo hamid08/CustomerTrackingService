@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "3Qsk6/1NvLPh2LTGyIyRL7iVsWRSIkoltXcqyGMY7Lv0K0UJzBJ/WZ/KFr/5NCZ2hnToVDMXUY8VEOgub8RiGg==",
+  "dgSpecHash": "7jQQICPvcV0ZKJ6paUhwrUtKr2a2ifd4VRlixFPFavMmKnG73uzgcT7zZx5hLihhDKvmyPJr0GqJLXoCOvJCyw==",
   "success": true,
   "projectFilePath": "D:\\My_Repositories\\CustomerTrackingService\\src\\Infrastructure\\CustomerTrackingService.Infrastructure.Persistence\\CustomerTrackingService.Infrastructure.Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

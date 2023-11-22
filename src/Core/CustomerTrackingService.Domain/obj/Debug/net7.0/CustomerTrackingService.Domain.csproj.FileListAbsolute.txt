@@ -1,0 +1,12 @@
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\bin\Debug\net7.0\CustomerTrackingService.Domain.deps.json
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\bin\Debug\net7.0\CustomerTrackingService.Domain.dll
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\bin\Debug\net7.0\CustomerTrackingService.Domain.pdb
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\obj\Debug\net7.0\CustomerTrackingService.Domain.csproj.AssemblyReference.cache
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\obj\Debug\net7.0\CustomerTrackingService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\obj\Debug\net7.0\CustomerTrackingService.Domain.AssemblyInfoInputs.cache
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\obj\Debug\net7.0\CustomerTrackingService.Domain.AssemblyInfo.cs
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\obj\Debug\net7.0\CustomerTrackingService.Domain.csproj.CoreCompileInputs.cache
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\obj\Debug\net7.0\CustomerTrackingService.Domain.dll
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\obj\Debug\net7.0\refint\CustomerTrackingService.Domain.dll
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\obj\Debug\net7.0\CustomerTrackingService.Domain.pdb
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Domain\obj\Debug\net7.0\ref\CustomerTrackingService.Domain.dll

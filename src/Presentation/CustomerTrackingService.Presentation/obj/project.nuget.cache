@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "3P5yB1xKnFnl6hfiejcwdwdby11dva98Iy/NzPjK0wqjbdpRULhoO5aEDj6vJYHknB032jlB4MIP117mORiLfg==",
+  "dgSpecHash": "0fq12pu0YJ+dN6bZJ1n+FhyhF5O93AMVzQQ5KavugWHAuwi+9MmJLOO1ojyPvy9TAxu67fsx4nD4VL7d6dfkRg==",
   "success": true,
   "projectFilePath": "D:\\My_Repositories\\CustomerTrackingService\\src\\Presentation\\CustomerTrackingService.Presentation\\CustomerTrackingService.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hamid\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\hamid\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\hamid\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\hamid\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\hamid\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",

@@ -11,4 +11,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\CustomerTrackingService.Application\CustomerTrackingService.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\CustomerTrackingService.Infrastructure.Persistence\CustomerTrackingService.Infrastructure.Persistence.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\CustomerTrackingService.Infrastructure\CustomerTrackingService.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

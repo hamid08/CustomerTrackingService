@@ -1,0 +1,17 @@
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\bin\Debug\net7.0\CustomerTrackingService.Infrastructure.deps.json
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\bin\Debug\net7.0\CustomerTrackingService.Infrastructure.dll
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\bin\Debug\net7.0\CustomerTrackingService.Infrastructure.pdb
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\bin\Debug\net7.0\CustomerTrackingService.Application.dll
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\bin\Debug\net7.0\CustomerTrackingService.Domain.dll
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\bin\Debug\net7.0\CustomerTrackingService.Application.pdb
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\bin\Debug\net7.0\CustomerTrackingService.Domain.pdb
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\CustomerTrackingService.Infrastructure.csproj.AssemblyReference.cache
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\CustomerTrackingService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\CustomerTrackingService.Infrastructure.AssemblyInfoInputs.cache
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\CustomerTrackingService.Infrastructure.AssemblyInfo.cs
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\CustomerTrackingService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\CustomerTrackingService.Infrastructure.csproj.CopyComplete
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\CustomerTrackingService.Infrastructure.dll
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\refint\CustomerTrackingService.Infrastructure.dll
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\CustomerTrackingService.Infrastructure.pdb
+D:\My_Repositories\CustomerTrackingService\src\Infrastructure\CustomerTrackingService.Infrastructure\obj\Debug\net7.0\ref\CustomerTrackingService.Infrastructure.dll

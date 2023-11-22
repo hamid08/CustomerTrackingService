@@ -1,0 +1,15 @@
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\bin\Debug\net7.0\CustomerTrackingService.Application.deps.json
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\bin\Debug\net7.0\CustomerTrackingService.Application.dll
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\bin\Debug\net7.0\CustomerTrackingService.Application.pdb
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\bin\Debug\net7.0\CustomerTrackingService.Domain.dll
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\bin\Debug\net7.0\CustomerTrackingService.Domain.pdb
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\CustomerTrackingService.Application.csproj.AssemblyReference.cache
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\CustomerTrackingService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\CustomerTrackingService.Application.AssemblyInfoInputs.cache
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\CustomerTrackingService.Application.AssemblyInfo.cs
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\CustomerTrackingService.Application.csproj.CoreCompileInputs.cache
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\CustomerTrackingService.Application.csproj.CopyComplete
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\CustomerTrackingService.Application.dll
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\refint\CustomerTrackingService.Application.dll
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\CustomerTrackingService.Application.pdb
+D:\My_Repositories\CustomerTrackingService\src\Core\CustomerTrackingService.Application\obj\Debug\net7.0\ref\CustomerTrackingService.Application.dll

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5aGf620Be+sWUbWKLTDz9oPfVRuGVzV0bDfnWKhGeB2AEXPoQSftpgZkXcmz7PbjXVcKKs7lcFM+yGnSJg7Oig==",
+  "dgSpecHash": "3nUCBTmTDKlq3l8lDA97JzamaOYatZQD41hWVsMVfKlQAfLjdMrsNKfgQV40jtWRq7ORFs8xQm31RVAwymbQGQ==",
   "success": true,
   "projectFilePath": "D:\\My_Repositories\\CustomerTrackingService\\src\\Infrastructure\\CustomerTrackingService.Infrastructure\\CustomerTrackingService.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,3 @@
+﻿global using CustomerTrackingService.Application;
+global using CustomerTrackingService.Infrastructure.Persistence;
+global using CustomerTrackingService.Infrastructure;
